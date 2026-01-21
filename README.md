@@ -1,12 +1,9 @@
 <h1 align="center">Awesome Efficient Agents: A Survey of Memory, Tool Learning, and Planning</h1>
 <div align="center">
-  <a href="https://arxiv.org/abs/2601.14192">
-    <img src="https://img.shields.io/badge/arXiv-2601.14192-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv">
-  </a>
-  <a href="https://efficient-agents.github.io/">
-    <img src="https://img.shields.io/badge/Project%20Page-efficient--agents.github.io-2ea44f.svg?logo=googlehome&logoColor=white" alt="Project Page">
-  </a>
+  <a href="https://arxiv.org/abs/2601.14192"><img src="https://img.shields.io/badge/arXiv-2601.14192-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv"></a>
+  <a href="https://efficient-agents.github.io/"><img src="https://img.shields.io/badge/Project%20Page-efficient--agents.github.io-2ea44f.svg?logo=googlehome&logoColor=white" alt="Project Page"></a>
 </div>
+
 
 🤝 **Contributions welcome!** Open an issue or submit a pull request to add papers, fix links, or improve categorization.
 
@@ -412,7 +409,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2025-06) [Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement](https://arxiv.org/abs/2506.03541) ![ACL 2025 Findings](https://img.shields.io/badge/ACL%202025%20Findings-blue) [![Star](https://img.shields.io/github/stars/zhouxiaofengshelf/D-R.svg?style=social&label=Star)](https://github.com/zhouxiaofengshelf/D-R)
 * (2024-02) [MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models](https://arxiv.org/abs/2402.01620) ![ICML 2024](https://img.shields.io/badge/ICML%202024-blue) [![Star](https://img.shields.io/github/stars/dinobby/MAGDi.svg?style=social&label=Star)](https://github.com/dinobby/MAGDi)
 
-## Citation
+## 📌Citation
 If you find this survey useful, please cite:
 ```bibtex
 @misc{yang2026efficientagentsmemorytool,
