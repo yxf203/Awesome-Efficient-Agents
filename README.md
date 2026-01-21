@@ -1,4 +1,14 @@
 <h1 align="center">Awesome Efficient Agents: A Survey of Memory, Tool Learning, and Planning</h1>
+<div align="center">
+  <a href="https://arxiv.org/abs/2601.14192">
+    <img src="https://img.shields.io/badge/arXiv-2601.14192-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv">
+  </a>
+  <a href="https://efficient-agents.github.io/">
+    <img src="https://img.shields.io/badge/Project%20Page-efficient--agents.github.io-2ea44f.svg?logo=googlehome&logoColor=white" alt="Project Page">
+  </a>
+</div>
+
+🤝 **Contributions welcome!** Open an issue or submit a pull request to add papers, fix links, or improve categorization.
 
 ## ⚡Introduction
 
@@ -9,8 +19,6 @@ We provide a curated paper list to help readers quickly locate representative wo
 - **Efficient Memory.** We organize memory-related papers into three processes: construction, management, and access.
 - **Efficient Tool Learning.** We group papers into tool selection, tool calling, and tool-integrated reasoning.
 - **Efficient Planning.** We collect work on planning that improves overall agent efficiency by reducing unnecessary actions and shortening trajectories.
-
-🤝 **Contributions welcome!** Open an issue or submit a pull request to add papers, fix links, or improve categorization.
 
 ![introduction-picture](assets/introduction-picture.png)
 
@@ -305,6 +313,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2025-04) [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) ![NeurIPS 2025](https://img.shields.io/badge/NeurIPS%202025-blue) [![Star](https://img.shields.io/github/stars/qiancheng0/ToolRL.svg?style=social&label=Star)](https://github.com/qiancheng0/ToolRL)
 * (2025-04) [ReTool: Reinforcement Learning for Strategic Tool Use in LLMs](https://arxiv.org/abs/2504.11536) [![Website](https://img.shields.io/badge/Website-Project-green)](https://retool-rl.github.io/) [![Star](https://img.shields.io/github/stars/ReTool-RL/ReTool.svg?style=social&label=Star)](https://github.com/ReTool-RL/ReTool)
 * (2025-04) [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/abs/2504.04736) ![COLM 2025](https://img.shields.io/badge/COLM%202025-blue)
+* (2025-04) [Acting Less is Reasoning More! Teaching Model to Act Efficiently](https://arxiv.org/abs/2504.14870)
 
 
 <a name="planning"></a>
@@ -402,3 +411,18 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2025-11) [SMAGDi: Socratic Multi Agent Interaction Graph Distillation for Efficient High Accuracy Reasoning](https://arxiv.org/abs/2511.05528) ![MTI-LLM @ NeurIPS 2025 Workshop](https://img.shields.io/badge/NeurIPS%202025%20Workshop-blue)
 * (2025-06) [Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement](https://arxiv.org/abs/2506.03541) ![ACL 2025 Findings](https://img.shields.io/badge/ACL%202025%20Findings-blue) [![Star](https://img.shields.io/github/stars/zhouxiaofengshelf/D-R.svg?style=social&label=Star)](https://github.com/zhouxiaofengshelf/D-R)
 * (2024-02) [MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models](https://arxiv.org/abs/2402.01620) ![ICML 2024](https://img.shields.io/badge/ICML%202024-blue) [![Star](https://img.shields.io/github/stars/dinobby/MAGDi.svg?style=social&label=Star)](https://github.com/dinobby/MAGDi)
+
+## Citation
+If you find this survey useful, please cite:
+```bibtex
+@misc{yang2026efficientagentsmemorytool,
+      title={Toward Efficient Agents: Memory, Tool learning, and Planning}, 
+      author={Xiaofang Yang and Lijun Li and Heng Zhou and Tong Zhu and Xiaoye Qu and Yuchen Fan and Qianshan Wei and Rui Ye and Li Kang and Yiran Qin and Zhiqiang Kou and Daizong Liu and Qi Li and Ning Ding and Siheng Chen and Jing Shao},
+      year={2026},
+      eprint={2601.14192},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.14192}, 
+}
+```
+
