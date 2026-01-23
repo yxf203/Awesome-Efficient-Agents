@@ -295,6 +295,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 #####  Selective Invocation
 
 * (2025-09) [TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning](https://arxiv.org/abs/2509.06278) ![WSDM 2026](https://img.shields.io/badge/WSDM%202026-blue) [![Star](https://img.shields.io/github/stars/lennendd/TableMind.svg?style=social&label=Star)](https://github.com/lennendd/TableMind)
+* (2025-05) [Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning](https://arxiv.org/abs/2505.16410) [![Star](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Star.svg?style=social&label=Star)](https://github.com/RUC-NLPIR/Tool-Star)
 * (2025-02) [SMART: Self-Aware Agent for Tool Overuse Mitigation](https://arxiv.org/abs/2502.11435) ![ACL 2025 Findings](https://img.shields.io/badge/ACL%202025%20Findings-blue) [![Star](https://img.shields.io/github/stars/qiancheng0/Open-SMARTAgent.svg?style=social&label=Star)](https://github.com/qiancheng0/Open-SMARTAgent)
 * (2024-03) [Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models](https://arxiv.org/abs/2403.12881) ![ACL 2024 Findings](https://img.shields.io/badge/ACL%202024%20Findings-blue) [![Website](https://img.shields.io/badge/Website-Project-green)](https://internlm.github.io/Agent-FLAN/)  [![Star](https://img.shields.io/github/stars/InternLM/Agent-FLAN.svg?style=social&label=Star)](https://github.com/InternLM/Agent-FLAN)
 
@@ -302,8 +303,11 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Cost-Aware Policy Optimization
 
+* (2026-01) [ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration](https://arxiv.org/abs/2601.06860) [![Star](https://img.shields.io/github/stars/asilverlight/ET-Agent.svg?style=social&label=Star)](https://github.com/asilverlight/ET-Agent)
 * (2025-10) [PORTool: Tool-Use LLM Training with Rewarded Tree](https://arxiv.org/abs/2510.26020)
 * (2025-10) [A$^2$FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning](https://arxiv.org/abs/2510.12838) [![Website](https://img.shields.io/badge/Website-Project-green)](https://chain-of-agents-afm.github.io/) [![Star](https://img.shields.io/github/stars/OPPO-PersonalAI/Adaptive_Agent_Foundation_Models.svg?style=social&label=Star)](https://github.com/OPPO-PersonalAI/Adaptive_Agent_Foundation_Models)
+* (2025-09) [Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference Learning](https://arxiv.org/abs/2509.23285) [![Star](https://img.shields.io/github/stars/RUC-NLPIR/Tool-Light.svg?style=social&label=Star)](https://github.com/RUC-NLPIR/Tool-Light)
+* (2025-07) [Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849) [![Star](https://img.shields.io/github/stars/RUC-NLPIR/ARPO.svg?style=social&label=Star)](https://github.com/RUC-NLPIR/ARPO)
 * (2025-09) [TableMind: An Autonomous Programmatic Agent for Tool-Augmented Table Reasoning](https://arxiv.org/abs/2509.06278) ![WSDM 2026](https://img.shields.io/badge/WSDM%202026-blue) [![Star](https://img.shields.io/github/stars/lennendd/TableMind.svg?style=social&label=Star)](https://github.com/lennendd/TableMind)
 * (2025-07) [AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning](https://arxiv.org/abs/2507.21836) [![Star](https://img.shields.io/github/stars/weiyifan1023/AutoTIR.svg?style=social&label=Star)](https://github.com/weiyifan1023/AutoTIR)
 * (2025-05) [Reinforced Internal-External Knowledge Synergistic Reasoning for Efficient Adaptive Search Agent](https://arxiv.org/abs/2505.07596) [![Star](https://img.shields.io/github/stars/hzy312/knowledge-r1.svg?style=social&label=Star)](https://github.com/hzy312/knowledge-r1)
