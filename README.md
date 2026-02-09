@@ -183,6 +183,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 <a name="hierarchical-memory"></a>
 #####  Hierarchical Memory
 
+* (2025-10) [Beyond a Million Tokens: Benchmarking and Enhancing Long-Term Memory in LLMs](https://arxiv.org/abs/2510.27246) ![ICLR](https://img.shields.io/badge/ICLR%202026-blue) [![Website](https://img.shields.io/badge/Website-Project-green)](https://mohammadtavakoli78.github.io/beam-light) [![Star](https://img.shields.io/github/stars/zjunlp/LightMem.svg?style=social&label=Star)](https://github.com/mohammadtavakoli78/BEAM)
 * (2025-10) [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://www.arxiv.org/abs/2510.18866) [![Star](https://img.shields.io/github/stars/zjunlp/LightMem.svg?style=social&label=Star)](https://github.com/zjunlp/LightMem)
 * (2025-07) [Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents](https://arxiv.org/abs/2507.22925)
 * (2025-07) [MemOS: A Memory OS for AI System](https://arxiv.org/abs/2507.03724) [![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)](https://github.com/MemTensor/MemOS)
@@ -196,9 +197,13 @@ In the paper, we organize memory into construction, management, and access. Sinc
 #### Multi-Agent Memory
 
 <a name="shared-memory"></a>
+
 #####  Shared Memory
 
+* (2025-11) [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) [![Star](https://img.shields.io/github/stars/Gen-Verse/LatentMAS.svg?style=social&label=Star)](https://github.com/Gen-Verse/LatentMAS)
 * (2025-11) [MemIndex: Agentic Event-based Distributed Memory Management for Multi-agent Systems](https://dl.acm.org/doi/10.1145/3774946) ![ACM TAAS](https://img.shields.io/badge/ACM%20TAAS%202025-blue)
+* (2025-10) [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215) ![ICLR](https://img.shields.io/badge/ICLR%202026-blue) [![Website](https://img.shields.io/badge/Website-Project-green)](https://fuvty.github.io/C2C_Project_Page/)  [![Star](https://img.shields.io/github/stars/thu-nics/C2C.svg?style=social&label=Star)](https://github.com/thu-nics/C2C)
+* (2025-10) [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/abs/2510.12872) ![NeurIPS](https://img.shields.io/badge/NeurIPS%202025-blue) [![Star](https://img.shields.io/github/stars/FastMAS/KVCOMM.svg?style=social&label=Star)](https://github.com/FastMAS/KVCOMM)
 * (2025-08) [RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory](https://arxiv.org/abs/2508.04903) 
 * (2025-07) [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) [![Website](https://img.shields.io/badge/Website-Project-green)](https://mirix.io/)  [![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)](https://github.com/Mirix-AI/MIRIX)
 * (2025-06) [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](https://arxiv.org/abs/2506.07398) ![NeurIPS](https://img.shields.io/badge/NeurIPS%202025%20spotlight-blue) [![Star](https://img.shields.io/github/stars/bingreeky/GMemory.svg?style=social&label=Star)](https://github.com/bingreeky/GMemory)
