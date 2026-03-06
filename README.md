@@ -135,6 +135,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Latent Memory
 
+* (2026-01) [FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse](https://arxiv.org/abs/2601.05505) 
 * (2025-09) [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704) [![Star](https://img.shields.io/github/stars/KANABOON1/MemGen.svg?style=social&label=Star)](https://github.com/KANABOON1/MemGen)
 * (2025-02) [M+: Extending MemoryLLM with Scalable Long-Term Memory](https://arxiv.org/abs/2502.00592) [![ICML 2025](https://img.shields.io/badge/ICML%202025-blue)](https://openreview.net/forum?id=OcqbkROe8J) [![Star](https://img.shields.io/github/stars/wangyu-ustc/MemoryLLM.svg?style=social&label=Star)](https://github.com/wangyu-ustc/MemoryLLM)
 * (2025-01) [Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)
@@ -151,6 +152,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Item-based Memory
 
+* (2026-01) [MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192)  [![Star](https://img.shields.io/github/stars/MemTensor/MemRL.svg?style=social&label=Star)](https://github.com/MemTensor/MemRL) 
 * (2025-10) [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) [![Star](https://img.shields.io/github/stars/ace-agent/ace.svg?style=social&label=Star)](https://github.com/ace-agent/ace) 
 * (2025-09) [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) 
 * (2025-08) [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828) 
@@ -200,7 +202,8 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Shared Memory
 
-* (2025-11) [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) [![Star](https://img.shields.io/github/stars/Gen-Verse/LatentMAS.svg?style=social&label=Star)](https://github.com/Gen-Verse/LatentMAS)
+* (2026-02) [LatentMem: Customizing Latent Memory for Multi-Agent Systems](https://arxiv.org/abs/2602.03036)  [![Star](https://img.shields.io/github/stars/KANABOON1/LatentMem.svg?style=social&label=Star)](https://github.com/KANABOON1/LatentMem) 
+*  (2025-11) [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) [![Star](https://img.shields.io/github/stars/Gen-Verse/LatentMAS.svg?style=social&label=Star)](https://github.com/Gen-Verse/LatentMAS)
 * (2025-11) [MemIndex: Agentic Event-based Distributed Memory Management for Multi-agent Systems](https://dl.acm.org/doi/10.1145/3774946) ![ACM TAAS](https://img.shields.io/badge/ACM%20TAAS%202025-blue)
 * (2025-10) [Cache-to-Cache: Direct Semantic Communication Between Large Language Models](https://arxiv.org/abs/2510.03215) ![ICLR](https://img.shields.io/badge/ICLR%202026-blue) [![Website](https://img.shields.io/badge/Website-Project-green)](https://fuvty.github.io/C2C_Project_Page/)  [![Star](https://img.shields.io/github/stars/thu-nics/C2C.svg?style=social&label=Star)](https://github.com/thu-nics/C2C)
 * (2025-10) [KVCOMM: Online Cross-context KV-cache Communication for Efficient LLM-based Multi-agent Systems](https://arxiv.org/abs/2510.12872) ![NeurIPS](https://img.shields.io/badge/NeurIPS%202025-blue) [![Star](https://img.shields.io/github/stars/FastMAS/KVCOMM.svg?style=social&label=Star)](https://github.com/FastMAS/KVCOMM)
@@ -273,7 +276,8 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Parallel Tool Calling
 
-* (2024-11) [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](https://arxiv.org/abs/2411.16313) ![ICCV 2025](https://img.shields.io/badge/ICCV%202025-blue) [![Star](https://img.shields.io/github/stars/duowuyms/OpenCATP-LLM.svg?style=social&label=Star)](https://github.com/duowuyms/OpenCATP-LLM)
+* (2026-02) [W&D:Scaling Parallel Tool Calling for Efficient Deep Research Agents](https://arxiv.org/abs/2602.07359) [![Website](https://img.shields.io/badge/Website-Project-green)](https://xqlin98.github.io/wide-deep-research-agent/) [![Star](https://img.shields.io/github/stars/SalesforceAIResearch/MCP-Universe?style=social&label=Star)](https://github.com/SalesforceAIResearch/MCP-Universe)
+* (2024-11) [CATP-LLM: Empowering Large Language Models for Cost-Aware Tool Planning](https://arxiv.org/abs/2411.16313) ![ICCV 2025](https://img.shields.io/badge/ICCV%202025-blue) [![Star](https://img.shields.io/github/stars/duowuyms/OpenCATP-LLM?style=social&label=Star)](https://github.com/duowuyms/OpenCATP-LLM)
 * (2024-05) [An LLM-Tool Compiler for Fused Parallel Function Calling](https://arxiv.org/abs/2405.17438)
 * (2023-12) [An LLM Compiler for Parallel Function Calling](https://arxiv.org/abs/2312.04511) ![ICML 2024](https://img.shields.io/badge/ICML%202024-blue) [![Star](https://img.shields.io/github/stars/SqueezeAILab/LLMCompiler.svg?style=social&label=Star)](https://github.com/SqueezeAILab/LLMCompiler)
 
