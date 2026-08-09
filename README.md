@@ -454,6 +454,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Protocol and Context Optimization
 
+* (2026-06) [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) [![Star](https://img.shields.io/github/stars/AutoResearch-Factory/Agon.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/Agon)
 * (2025-10) [Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems](https://arxiv.org/abs/2510.26585) 
 * (2025-09) [Free-MAD: Consensus-Free Multi-Agent Debate](https://arxiv.org/abs/2509.11035)
 * (2025-07) [CONSENSAGENT: Towards Efficient and Effective Consensus in Multi-Agent LLM Interactions Through Sycophancy Mitigation](https://aclanthology.org/2025.findings-acl.1141/) ![ACL 2025 Findings](https://img.shields.io/badge/ACL%202025%20Findings-blue)
