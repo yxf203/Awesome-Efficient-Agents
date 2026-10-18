@@ -404,6 +404,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Adaptive Budgeting and Control
 
+* (2026-10) [Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution](https://arxiv.org/abs/2610.17816) [![Star](https://img.shields.io/github/stars/OpenBMB/EC2-Bench.svg?style=social&label=Star)](https://github.com/OpenBMB/EC2-Bench)
 * (2026-09) [Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.02042)
 * (2026-09) [AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows](https://arxiv.org/abs/2609.22951)
 * (2026-06) [Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/abs/2606.21811) [![Star](https://img.shields.io/github/stars/shubhamrgandhi/critic-training.svg?style=social&label=Star)](https://github.com/shubhamrgandhi/critic-training)
