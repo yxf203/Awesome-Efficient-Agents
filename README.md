@@ -485,6 +485,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Protocol and Context Optimization
 
+* (2026-08) [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/abs/2608.11250) [![Star](https://img.shields.io/github/stars/AutoResearch-Factory/AgonAlpha.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/AgonAlpha)
 * * (2026-08) [SyncPlan: Long-Horizon LLM Coordination with Explicit Synchronization and Adaptive Correction](https://arxiv.org/abs/2608.01652)
 * (2026-08) [BANDMAS: Causality-Inspired Semantic Packet Scheduling for Bandwidth-Efficient Multi-Agent Collaboration](https://arxiv.org/abs/2608.00458)
 * (2026-06) [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) [![Star](https://img.shields.io/github/stars/AutoResearch-Factory/Agon.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/Agon)
