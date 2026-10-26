@@ -296,6 +296,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 <a name="multi-label-classification-mlc"></a>
 #####  Multi-Label Classification (MLC)
 
+* (2026-02) [TabAgent: Distilling LLM Agent Components into Cheap Classifiers](https://arxiv.org/abs/2602.16429)  [![Star](https://img.shields.io/github/stars/dolev31/TabAgent.svg?style=social&label=Star)](https://github.com/dolev31/TabAgent)
 * (2024-09) [Efficient and Scalable Estimation of Tool Representations in Vector Space](https://arxiv.org/abs/2409.02141) [![Star](https://img.shields.io/github/stars/SqueezeAILab/Tool2Vec.svg?style=social&label=Star)](https://github.com/SqueezeAILab/Tool2Vec)
 * (2024-09) [TinyAgent: Function Calling at the Edge](https://arxiv.org/abs/2409.00608) ![EMNLP 2024 Demo](https://img.shields.io/badge/EMNLP%202024%20Demo-blue)  [![Star](https://img.shields.io/github/stars/SqueezeAILab/TinyAgent.svg?style=social&label=Star)](https://github.com/SqueezeAILab/TinyAgent)
 
