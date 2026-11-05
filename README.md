@@ -407,6 +407,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2026-09) [Act More, Decide Less: Skill-Guided Adaptive Action Chunking for Long-Horizon LLM Agents](https://arxiv.org/abs/2609.02042)
 * (2026-09) [AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows](https://arxiv.org/abs/2609.22951)
 * (2026-06) [Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/abs/2606.21811) [![Star](https://img.shields.io/github/stars/shubhamrgandhi/critic-training.svg?style=social&label=Star)](https://github.com/shubhamrgandhi/critic-training)
+* (2026-06) [BAGEN: Are LLM Agents Budget-Aware?](https://arxiv.org/abs/2606.00198) [![Website](https://img.shields.io/badge/Website-Project-green)](https://ragen-ai.github.io/bagen/) [![Star](https://img.shields.io/github/stars/mll-lab-nu/BAGEN.svg?style=social&label=Star)](https://github.com/mll-lab-nu/BAGEN)
 * (2026-03) [Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents](https://arxiv.org/abs/2603.07915) 
 * (2026-03) [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483) [![Star](https://img.shields.io/github/stars/MAC-AutoML/SpecEyes.svg?style=social&label=Star)](https://github.com/MAC-AutoML/SpecEyes) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2026-02) [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents ](https://arxiv.org/abs/2602.12662)  [![Star](https://img.shields.io/github/stars/rhyang2021/CogRouter.svg?style=social)](https://github.com/rhyang2021/CogRouter)
@@ -444,6 +445,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Policy Optimization
 
+* (2026-10) [LAGEN: Are Vision-Language Agents Latency Aware?](https://ragen-ai.github.io/lagen/assets/paper.pdf) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat) [![Website](https://img.shields.io/badge/Website-Project-green)](https://ragen-ai.github.io/lagen/) [![Star](https://img.shields.io/github/stars/mll-lab-nu/latency-aware-agents.svg?style=social&label=Star)](https://github.com/mll-lab-nu/latency-aware-agents)
 * (2026-01) [WebAnchor: Anchoring Agent Planning to Stabilize Long-Horizon Web Reasoning](https://arxiv.org/abs/2601.03164) 
 * (2025-09) [Planner-R1: Reward Shaping Enables Efficient Agentic RL with Smaller LLMs](https://arxiv.org/abs/2509.25779)
 * (2025-08) [Encouraging Good Processes Without the Need for Good Answers: Reinforcement Learning for LLM Agent Planning](https://arxiv.org/abs/2508.19598) ![EMNLP 2025 Industry](https://img.shields.io/badge/EMNLP%202025%20Industry-blue)
