@@ -244,6 +244,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Shared Memory
 
+* (2026-11) [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](https://arxiv.org/abs/2611.08483) [![Star](https://img.shields.io/github/stars/Qile-J/SwarmEvolve.svg?style=social&label=Star)](https://github.com/Qile-J/SwarmEvolve)
 * (2026-09) [Learning What to Retain: Gated-Memory Routing for Efficient Collaboration in Multi-Agent LLM Systems](https://arxiv.org/abs/2609.00237) [![Star](https://img.shields.io/github/stars/rajibrhasan/gated-memory-routing.svg?style=social&label=Star)](https://github.com/rajibrhasan/gated-memory-routing)
 * (2026-09) [MACE: Memory-Agent Co-Evolution with Adaptive Memory Graphs for Multi-Agent Systems](https://arxiv.org/abs/2609.21533)
 * (2026-02) [LatentMem: Customizing Latent Memory for Multi-Agent Systems](https://arxiv.org/abs/2602.03036)  [![Star](https://img.shields.io/github/stars/KANABOON1/LatentMem.svg?style=social&label=Star)](https://github.com/KANABOON1/LatentMem) 
