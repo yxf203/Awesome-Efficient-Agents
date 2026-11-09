@@ -470,6 +470,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Topological Efficiency and Sparsification
 
+* (2026-05) [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757) ![STAI-X 2026](https://img.shields.io/badge/STAI--X%202026-blue) [![Star](https://img.shields.io/github/stars/haoranlustat/NeuroMAS.svg?style=social&label=Star)](https://github.com/haoranlustat/NeuroMAS)
 * (2026-04) [InfoSeeker: A Scalable Hierarchical Parallel Agent Framework for Web Information Seeking](https://arxiv.org/abs/2604.02971) [![Star](https://img.shields.io/github/stars/Memento-Teams/InfoSeeker.svg?style=social&label=Star)](https://github.com/Memento-Teams/InfoSeeker)
 * (2025-09) [MARS: toward more efficient multi-agent collaboration for LLM reasoning](https://arxiv.org/abs/2509.20502)  [![Star](https://img.shields.io/github/stars/xwang97/MARS.svg?style=social&label=Star)](https://github.com/xwang97/MARS)
 * (2025-08) [SafeSieve: From Heuristics to Experience in Progressive Pruning for LLM-based Multi-Agent Communication](https://arxiv.org/abs/2508.11733) ![AAAI 2026](https://img.shields.io/badge/AAAI%202026-blue) [![Star](https://img.shields.io/github/stars/csgen/SafeSieve.svg?style=social&label=Star)](https://github.com/csgen/SafeSieve)
