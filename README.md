@@ -200,6 +200,8 @@ In the paper, we organize memory into construction, management, and access. Sinc
 <a name="hierarchical-memory"></a>
 #####  Hierarchical Memory
 
+* (2026-10) [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![Star](https://img.shields.io/github/stars/MCG-NJU/OneStreamer.svg?style=social&label=Star)](https://github.com/MCG-NJU/OneStreamer)
+
 * (2026-08) [Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.20631)
 * (2026-04) [StructMem: Structured Memory for Long-Horizon Behavior in LLMs](https://arxiv.org/abs/2604.21748) ![ACL 2026](https://img.shields.io/badge/ACL%202026-blue) [![Star](https://img.shields.io/github/stars/zjunlp/LightMem.svg?style=social&label=Star)](https://github.com/zjunlp/LightMem)
 * (2026-02) [Beyond RAG for Agent Memory: Retrieval by Decoupling and Aggregation](https://arxiv.org/abs/2602.02007)  [![Website](https://img.shields.io/badge/Website-Project-green)](https://zhanghao-xmemory.github.io/Academic-project-page-template/) [![Star](https://img.shields.io/github/stars/HU-xiaobai/xMemory.svg?style=social&label=Star)](https://github.com/HU-xiaobai/xMemory)
@@ -377,6 +379,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2026-09) [Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models](https://arxiv.org/abs/2609.03493) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2026-03) [EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection](https://arxiv.org/abs/2603.04900)
 * (2026-02) [Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning](https://arxiv.org/abs/2602.09598) 
+* (2026-01) [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) [![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3.svg?style=social&label=Star)](https://github.com/MCG-NJU/Video-o3)
 * (2026-01) [ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration](https://arxiv.org/abs/2601.06860) [![Star](https://img.shields.io/github/stars/asilverlight/ET-Agent.svg?style=social&label=Star)](https://github.com/asilverlight/ET-Agent)
 * (2025-10) [PORTool: Tool-Use LLM Training with Rewarded Tree](https://arxiv.org/abs/2510.26020)
 * (2025-10) [A$^2$FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning](https://arxiv.org/abs/2510.12838) [![Website](https://img.shields.io/badge/Website-Project-green)](https://chain-of-agents-afm.github.io/) [![Star](https://img.shields.io/github/stars/OPPO-PersonalAI/Adaptive_Agent_Foundation_Models.svg?style=social&label=Star)](https://github.com/OPPO-PersonalAI/Adaptive_Agent_Foundation_Models)
