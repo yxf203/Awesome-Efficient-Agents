@@ -122,6 +122,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Latent Memory
 
+* (2026-09) [ActKV: Efficient LLM Agents through Action-Guided KV Cache Management](https://arxiv.org/abs/2609.31395)
 * (2026-09) [RPMem: Learning Long-Term Recurrent Parametric Memory Across Sessions for LLM Agents](https://arxiv.org/abs/2609.23466)
 * (2026-01) [FlashMem: Distilling Intrinsic Latent Memory via Computation Reuse](https://arxiv.org/abs/2601.05505) 
 * (2025-09) [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704) [![Star](https://img.shields.io/github/stars/KANABOON1/MemGen.svg?style=social&label=Star)](https://github.com/KANABOON1/MemGen)
@@ -140,6 +141,8 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Prompt-resident Memory
 
+* (2026-09) [LAM: Efficient Lossy Agent Memory Framework With A Retrieval-Score Error Bound](https://arxiv.org/abs/2609.32256)
+* (2026-09) [FOCUS: Training-Free Decision-Preserving Context Compression for LLM Agents](https://arxiv.org/abs/2609.37590)
 * (2026-09) [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](https://arxiv.org/abs/2609.26779)
 * (2026-09) [When Can Agents Forget Their Reasoning? ICLR for Long-Horizon Agent Context Compression](https://arxiv.org/abs/2609.29875)
 * (2026-09) [Stable Geometry with Divergent Task Evidence for Efficient Long-Horizon Agent Compression](https://arxiv.org/abs/2609.27332)
@@ -157,6 +160,8 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Item-based Memory
 
+* (2026-10) [MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents](https://arxiv.org/abs/2610.06830) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat) [![Star](https://img.shields.io/github/stars/ViktorAxelsen/MemPilot.svg?style=social&label=Star)](https://github.com/ViktorAxelsen/MemPilot)
+* (2026-09) [JustMem: Just-Enough Memory Access for Long-Term Conversations](https://arxiv.org/abs/2609.19877)
 * (2026-08) [LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation](https://arxiv.org/abs/2608.12990)
 * (2026-08) [LeanMem: Simple and Efficient Long-Term Memory for LLM Agents](https://arxiv.org/abs/2608.03463)
 * (2026-06) [MemRefine: LLM-Guided Compression for Long-Term Agent Memory](https://arxiv.org/abs/2606.13177)
@@ -200,7 +205,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 <a name="hierarchical-memory"></a>
 #####  Hierarchical Memory
 
-* (2026-10) [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![Star](https://img.shields.io/github/stars/MCG-NJU/OneStreamer.svg?style=social&label=Star)](https://github.com/MCG-NJU/OneStreamer)
+* (2026-10) [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) [![Star](https://img.shields.io/github/stars/MCG-NJU/OneStreamer.svg?style=social&label=Star)](https://github.com/MCG-NJU/OneStreamer) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 
 * (2026-08) [Weighted Memory Tree: Remembering What Matters for Long-Horizon LLM Agents](https://arxiv.org/abs/2608.20631)
 * (2026-04) [StructMem: Structured Memory for Long-Horizon Behavior in LLMs](https://arxiv.org/abs/2604.21748) ![ACL 2026](https://img.shields.io/badge/ACL%202026-blue) [![Star](https://img.shields.io/github/stars/zjunlp/LightMem.svg?style=social&label=Star)](https://github.com/zjunlp/LightMem)
@@ -319,6 +324,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 <a name="in-place-parameter-filling"></a>
 #####  In-Place Parameter Filling
 
+* (2026-10) [SchemaFill: Efficient LLM Tool Calling via Slot-Parallel Speculative Decoding](https://arxiv.org/abs/2610.07086) [![Star](https://img.shields.io/github/stars/Czzzk/SchemaFill.svg?style=social&label=Star)](https://github.com/Czzzk/SchemaFill)
 * (2024-01) [Efficient Tool Use with Chain-of-Abstraction Reasoning](https://arxiv.org/abs/2401.17464) ![COLING 2025](https://img.shields.io/badge/COLING%202025-blue)
 * (2023-02) [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) ![NeurIPS](https://img.shields.io/badge/NeurIPS%202023%20oral-blue)
 
@@ -335,6 +341,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Cost-Aware Tool Calling
 
+* (2026-11) [Tools Need Not Speak in Text: Latent Context Compression for Agents](https://arxiv.org/abs/2611.06500)
 * (2026-09) [DTOC: Dynamic Tool Output Compression for Adaptive Context Management in AI Agents](https://arxiv.org/abs/2609.26121)
 * (2026-08) [ReCache: Efficient KV Cache Reuse and Compression for Tool-Augmented LLM Agents](https://arxiv.org/abs/2608.19662) [![Star](https://img.shields.io/github/stars/EIT-NLP/ReCache.svg?style=social&label=Star)](https://github.com/EIT-NLP/ReCache)
 * (2025-07) [A Joint Optimization Framework for Enhancing Efficiency of Tool Utilization in LLM Agents](https://aclanthology.org/2025.findings-acl.1149/) ![ACL 2025 Findings](https://img.shields.io/badge/ACL%202025%20Findings-blue) [![Star](https://img.shields.io/github/stars/Bingo-W/ToolOptimization.svg?style=social&label=Star)](https://github.com/Bingo-W/ToolOptimization)
@@ -381,7 +388,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2026-09) [Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models](https://arxiv.org/abs/2609.03493) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2026-03) [EvoTool: Self-Evolving Tool-Use Policy Optimization in LLM Agents via Blame-Aware Mutation and Diversity-Aware Selection](https://arxiv.org/abs/2603.04900)
 * (2026-02) [Learning from the Irrecoverable: Error-Localized Policy Optimization for Tool-Integrated LLM Reasoning](https://arxiv.org/abs/2602.09598) 
-* (2026-01) [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) [![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3.svg?style=social&label=Star)](https://github.com/MCG-NJU/Video-o3)
+* (2026-01) [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) [![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3.svg?style=social&label=Star)](https://github.com/MCG-NJU/Video-o3) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2026-01) [ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration](https://arxiv.org/abs/2601.06860) [![Star](https://img.shields.io/github/stars/asilverlight/ET-Agent.svg?style=social&label=Star)](https://github.com/asilverlight/ET-Agent)
 * (2025-10) [PORTool: Tool-Use LLM Training with Rewarded Tree](https://arxiv.org/abs/2510.26020)
 * (2025-10) [A$^2$FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid Reasoning](https://arxiv.org/abs/2510.12838) [![Website](https://img.shields.io/badge/Website-Project-green)](https://chain-of-agents-afm.github.io/) [![Star](https://img.shields.io/github/stars/OPPO-PersonalAI/Adaptive_Agent_Foundation_Models.svg?style=social&label=Star)](https://github.com/OPPO-PersonalAI/Adaptive_Agent_Foundation_Models)
@@ -414,6 +421,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 * (2026-09) [AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows](https://arxiv.org/abs/2609.22951)
 * (2026-06) [Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/abs/2606.21811) [![Star](https://img.shields.io/github/stars/shubhamrgandhi/critic-training.svg?style=social&label=Star)](https://github.com/shubhamrgandhi/critic-training)
 * (2026-06) [BAGEN: Are LLM Agents Budget-Aware?](https://arxiv.org/abs/2606.00198) [![Website](https://img.shields.io/badge/Website-Project-green)](https://ragen-ai.github.io/bagen/) [![Star](https://img.shields.io/github/stars/mll-lab-nu/BAGEN.svg?style=social&label=Star)](https://github.com/mll-lab-nu/BAGEN)
+* (2026-06) [JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence](https://arxiv.org/abs/2606.14777) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat) [![Star](https://img.shields.io/github/stars/jd-opensource/JoyAI-VL-Interaction.svg?style=social&label=Star)](https://github.com/jd-opensource/JoyAI-VL-Interaction)
 * (2026-03) [Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents](https://arxiv.org/abs/2603.07915) 
 * (2026-03) [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](https://arxiv.org/abs/2603.23483) [![Star](https://img.shields.io/github/stars/MAC-AutoML/SpecEyes.svg?style=social&label=Star)](https://github.com/MAC-AutoML/SpecEyes) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2026-02) [Think Fast and Slow: Step-Level Cognitive Depth Adaptation for LLM Agents ](https://arxiv.org/abs/2602.12662)  [![Star](https://img.shields.io/github/stars/rhyang2021/CogRouter.svg?style=social)](https://github.com/rhyang2021/CogRouter)
@@ -438,6 +446,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Task Decomposition
 
+* (2026-10) [TaReD: Tool-Aware Recursive Decomposition for Long-Horizon Tasks](https://arxiv.org/abs/2610.11268)
 * (2026-01) [Beyond Entangled Planning: Task-Decoupled Planning for Long-Horizon Agents](https://arxiv.org/abs/2601.07577) 
 * (2025-12) [Video-Browser: Towards Agentic Open-web Video Browsing](https://arxiv.org/abs/2512.23044)  [![Star](https://img.shields.io/github/stars/chrisx599/Video-Browser.svg?style=social&label=Star)](https://github.com/chrisx599/Video-Browser) ![Multimodal](https://img.shields.io/badge/Multimodal-9B8CFF?style=flat)
 * (2025-05) [Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution](https://arxiv.org/abs/2505.20286)  [![Star](https://img.shields.io/github/stars/CharlesQ9/Alita.svg?style=social&label=Star)](https://github.com/CharlesQ9/Alita)
@@ -464,6 +473,7 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####   Memory and Skill Acquisition
 
+* (2026-11) [ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows](https://arxiv.org/abs/2611.14492)
 * (2025-10) [GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning](https://arxiv.org/abs/2510.25320)  [![Star](https://img.shields.io/github/stars/WJQ7777/Graph-Agent-Planning.svg?style=social&label=Star)](https://github.com/WJQ7777/Graph-Agent-Planning)
 * (2024-07) [Sibyl: Simple yet Effective Agent Framework for Complex Real-world Reasoning](https://arxiv.org/abs/2407.10718) [![Star](https://img.shields.io/github/stars/Ag2S1/Sibyl-System.svg?style=social&label=Star)](https://github.com/Ag2S1/Sibyl-System)
 * (2024-06) [GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models](https://arxiv.org/abs/2406.14550) ![EMNLP 2024 Findings](https://img.shields.io/badge/EMNLP%202024%20Findings-blue)
@@ -494,8 +504,9 @@ In the paper, we organize memory into construction, management, and access. Sinc
 
 #####  Protocol and Context Optimization
 
+* (2026-10) [Jev-LiteMAS: Separating Decisions from Generation in Multi-Agent Workflows](https://arxiv.org/abs/2610.21411)
 * (2026-08) [AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search](https://arxiv.org/abs/2608.11250) [![Star](https://img.shields.io/github/stars/AutoResearch-Factory/AgonAlpha.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/AgonAlpha)
-* * (2026-08) [SyncPlan: Long-Horizon LLM Coordination with Explicit Synchronization and Adaptive Correction](https://arxiv.org/abs/2608.01652)
+* (2026-08) [SyncPlan: Long-Horizon LLM Coordination with Explicit Synchronization and Adaptive Correction](https://arxiv.org/abs/2608.01652)
 * (2026-08) [BANDMAS: Causality-Inspired Semantic Packet Scheduling for Bandwidth-Efficient Multi-Agent Collaboration](https://arxiv.org/abs/2608.00458)
 * (2026-06) [Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177) [![Star](https://img.shields.io/github/stars/AutoResearch-Factory/Agon.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/Agon)
 * (2025-10) [Stop Wasting Your Tokens: Towards Efficient Runtime Multi-Agent Systems](https://arxiv.org/abs/2510.26585) 
